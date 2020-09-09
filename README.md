@@ -1,7 +1,7 @@
 # Dino project
 
-  This project is developed for playing dino game @ chrome://dino/ via python code.
+  Short projects developed by me for a good start.
   
-# Adjustments
+## Adjustments
 
   Adjust the pixels according to your screen resolution.
