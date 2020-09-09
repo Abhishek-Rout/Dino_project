@@ -5,3 +5,7 @@
 ## Prerequisite: 
   
   The prerequisite of this project is the basic knowledge of Python, Java.
+
+## For Web Development Projects:
+
+  Visit: https://abhishek-rout.github.io/Menu/
