@@ -13,4 +13,4 @@
   - Install the header files.
   - Adjust the pixcel of the notice region acording to the screen resolution/size.
 
-### If you like this then give a STAR to this Repo.
+### If you like this, then give a ⭐️ to this Repo.
